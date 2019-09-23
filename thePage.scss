@@ -1,0 +1,18 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+
+// Background
+// https://html-css-js.com/css/generator/gradient/
+#demo {
+	background: rgb(130,192,255);
+	background: -moz-linear-gradient(-45deg, rgb(130,192,255) 0%, rgb(94,240,255) 61%, rgb(7,10,74) 100%);
+	background: -webkit-linear-gradient(-45deg, rgb(130,192,255) 0%, rgb(94,240,255) 61%, rgb(7,10,74) 100%);
+	background: linear-gradient(135deg, rgb(130,192,255) 0%, rgb(94,240,255) 61%, rgb(7,10,74) 100%);
+}
+
+
+//Text
+
